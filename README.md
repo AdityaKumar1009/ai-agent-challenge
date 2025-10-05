@@ -34,7 +34,7 @@ The agent uses LLM (Gemini/Claude) to write parsing code, tests it against expec
 
 ### 1. Clone repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-agent-challenge.git
+[git clone https://github.com/YOUR_USERNAME/ai-agent-challenge.git](https://github.com/AdityaKumar1009/ai-agent-challenge)
 cd ai-agent-challenge
 ```
 
